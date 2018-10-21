@@ -1,0 +1,20 @@
+mkdir (nome da pasta) - cria pasta 
+cd (nome da pasta) - entra na pasta
+git init - inicializa o repositorio fica enxergado todas mudanças no projeto
+ls -la - lista as pastas dentro da pasta criada
+cd .. - volta pra pasta anterior
+
+vi - abre um terminal de edição uma IDE
+git status - serve para listar como esta o meu repositorio(se precisa comitar ou não)
+git add <nome do arquivo> - adiciona o arquivo
+git commit -m - momento avisar o git (git cra ume versão)
+
+git log - mostra quem fez ou as ultimas modificações
+
+git shortlog - mostra todos os commit e quem ajudou 
+
+para enviar arquivos para o gihub precisa fazer um push
+
+teste com arquivo txt
+
+
