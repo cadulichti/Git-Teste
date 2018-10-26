@@ -1,0 +1,5 @@
+funções - trecho de codigo que retornaum valor
+argumentos ou parametros - sao informações que as funções precisam
+
+argumentos ou args - permitem acessar os parametros
+
